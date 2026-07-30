@@ -1,5 +1,5 @@
 # I'm ksane.
-## - Working on: - A stealer, and c2 panel is coming in an hour
+## - Working on: - A stealer, and CygRat2.0
 ### - Reach me buy contacting me on: 
 ### - Email: napvan@proton.me 
 ### - Telegram: @ksanewashere
