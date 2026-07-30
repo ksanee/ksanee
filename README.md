@@ -1,6 +1,5 @@
-# I'm ksane, a bad developer, I sometimes make malware. Check out my github if you want to!
-
-## - Working on: - A stealer, ofc in python cause i don't bother to learn anything else, and a C2 panel for CygRat, and more updates on it.
+# I'm ksane.
+## - Working on: - A stealer, and c2 panel is coming in an hour
 ### - Reach me buy contacting me on: 
 ### - Email: napvan@proton.me 
 ### - Telegram: @ksanewashere
