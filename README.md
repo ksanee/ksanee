@@ -1,2 +1,2 @@
 # call me srebrn
-## telegram: @deficitness
+## telegram: @srebrn
